@@ -1,0 +1,41 @@
+[
+  {
+    "title": "Best Bathroom Mirrors of 2026: 7 Expert-Tested Picks for Every Style",
+    "slug": "best-bathroom-mirrors",
+    "summary": "We researched 30+ bathroom mirrors across every style — vanity, medicine cabinet, round, and frameless — to find the 7 that deliver the best clarity, build quality, and value from $29.99 to $189.99.",
+    "image": "images/hero-best-bathroom-mirrors.jpg",
+    "imageWidth": 400,
+    "imageHeight": 229,
+    "publishDate": "2026-03-28",
+    "category": "Reviews",
+    "template": "roundup",
+    "featured": true,
+    "description": "We researched 30+ bathroom mirrors across every style — vanity, medicine cabinet, round, and frameless — to find the 7 that deliver the best clarity, build quality, and value from $29.99 to $189.99."
+  },
+  {
+    "title": "Best LED Bathroom Mirrors with Lights: 6 Picks for Bright, Even Illumination (2026)",
+    "slug": "best-led-bathroom-mirrors-with-lights",
+    "summary": "We tested 12+ LED bathroom mirrors for brightness, color temperature, anti-fog, and build quality. Our 6 top picks from $79.99 to $249.99 — ranked by performance and value.",
+    "image": "images/hero-best-led-bathroom-mirrors-with-lights.jpg",
+    "imageWidth": 400,
+    "imageHeight": 229,
+    "publishDate": "2026-03-28",
+    "category": "Reviews",
+    "template": "roundup",
+    "featured": true,
+    "description": "We tested 12+ LED bathroom mirrors for brightness, color temperature, anti-fog, and build quality. Our 6 top picks from $79.99 to $249.99 — ranked by performance and value."
+  },
+  {
+    "title": "How to Choose the Right Bathroom Mirror Size: Complete Buyer's Guide (2026)",
+    "slug": "how-to-choose-the-right-bathroom-mirror-size",
+    "summary": "Step-by-step guide to choosing the perfect bathroom mirror size. Vanity proportions, height placement, shape selection, and style matching for every bathroom layout.",
+    "image": "images/hero-how-to-choose-the-right-bathroom-mirror-size.jpg",
+    "imageWidth": 400,
+    "imageHeight": 229,
+    "publishDate": "2026-03-28",
+    "category": "Guides",
+    "template": "guide",
+    "featured": false,
+    "description": "Step-by-step guide to choosing the perfect bathroom mirror size. Vanity proportions, height placement, shape selection, and style matching for every bathroom layout."
+  }
+]
