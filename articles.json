@@ -37,5 +37,18 @@
     "template": "guide",
     "featured": false,
     "description": "Step-by-step guide to choosing the perfect bathroom mirror size. Vanity proportions, height placement, shape selection, and style matching for every bathroom layout."
+  },
+  {
+    "title": "Best Round Bathroom Mirrors: 7 Stylish Picks (2026)",
+    "slug": "best-round-bathroom-mirrors",
+    "summary": "We compared 25+ round bathroom mirrors and found the 7 best for every style and budget. From minimalist frameless to bold gold frames — expert picks from $29.99 to $149.99.",
+    "image": "images/hero-best-round-bathroom-mirrors.jpg",
+    "imageWidth": 400,
+    "imageHeight": 229,
+    "publishDate": "2026-03-29",
+    "category": "Reviews",
+    "template": "roundup",
+    "featured": true,
+    "description": "We compared 25+ round bathroom mirrors and found the 7 best for every style and budget. From minimalist frameless to bold gold frames — expert picks from $29.99 to $149.99."
   }
 ]
