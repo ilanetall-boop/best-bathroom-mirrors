@@ -9,7 +9,7 @@ window.SITE_CONFIG = {
   logo: "images/mirrors-logo.svg",
   newsletterUrl: "https://script.google.com/macros/s/AKfycbxhUcinCHfLDqvtL6ko2bxreGTOv4yOkGPrO_hUC7v9AVXvjI0cAG9k2nVXKAkbN8kV/exec",
   affiliateTag: "bestbathroommirrors-20",
-  gaId: "TBD",
+  gaId: "G-C1VJMF3G8M",
   colors: {
     primary: "#283593",
     primaryLight: "#5C6BC0",
