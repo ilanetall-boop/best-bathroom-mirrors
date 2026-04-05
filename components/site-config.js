@@ -4,7 +4,7 @@
  */
 window.SITE_CONFIG = {
   name: "Best Bathroom Mirrors",
-  domain: "best-bathroom-mirrors.com",
+  domain: "bestbathroommirrors.com",
   tagline: "Expert reviews & buying guides for the perfect bathroom mirror",
   logo: "images/mirrors-logo.svg",
   newsletterUrl: "https://script.google.com/macros/s/AKfycbxhUcinCHfLDqvtL6ko2bxreGTOv4yOkGPrO_hUC7v9AVXvjI0cAG9k2nVXKAkbN8kV/exec",
@@ -47,7 +47,7 @@ window.SITE_CONFIG = {
       { label: "Best Bath Towels", href: "https://www.best-bath-towels.com" },
       { label: "Best Towel Warmers", href: "https://www.best-towel-warmers.com" },
       { label: "Best Bathroom Faucets", href: "https://www.best-bathroom-faucets.com" },
-      { label: "Best Bathroom Storage", href: "https://www.best-bathroom-storage.com" }
+      { label: "Best Bathroom Storage", href: "https://www.bestbathroomstorage.com" }
     ]
   },
   networkBanners: [
