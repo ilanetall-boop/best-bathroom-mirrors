@@ -43,10 +43,10 @@ window.SITE_CONFIG = {
       { label: "Best Toilet Seats", href: "https://www.besttoiletseats.com" },
       { label: "Best Bathroom Vanities", href: "https://www.bestbathroomvanities.com" },
       { label: "Best Shower Heads", href: "https://www.best-shower-heads.com" },
-      { label: "Best Soap Dispensers", href: "https://www.best-soap-dispensers.com" },
+      { label: "Best Soap Dispensers", href: "https://best-soap-dispensers.com" },
       { label: "Best Bath Towels", href: "https://www.best-bath-towels.com" },
       { label: "Best Towel Warmers", href: "https://www.best-towel-warmers.com" },
-      { label: "Best Bathroom Faucets", href: "https://www.best-bathroom-faucets.com" },
+      { label: "Best Bathroom Faucets", href: "https://best-bathroom-faucets.com" },
       { label: "Best Bathroom Storage", href: "https://www.bestbathroomstorage.com" }
     ]
   },
