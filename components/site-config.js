@@ -6,7 +6,7 @@ window.SITE_CONFIG = {
   name: "Best Bathroom Mirrors",
   domain: "bestbathroommirrors.com",
   tagline: "Expert reviews & buying guides for the perfect bathroom mirror",
-  logo: "images/mirrors-logo.svg",
+  logo: "images/mirrors-logo.svg?v=2",
   newsletterUrl: "https://script.google.com/macros/s/AKfycbxhUcinCHfLDqvtL6ko2bxreGTOv4yOkGPrO_hUC7v9AVXvjI0cAG9k2nVXKAkbN8kV/exec",
   affiliateTag: "bestbathroommirrors-20",
   gaId: "G-C1VJMF3G8M",
