@@ -7,72 +7,8 @@
     "publishDate": "2026-05-19",
     "category": "Reviews",
     "template": "roundup",
+    "featured": true,
     "description": "Anti-fog bathroom mirrors that stay clear after every shower. 7 tested picks from fogless shaving mirrors to heated LED bathroom mirrors.",
     "date": "2026-05-19"
-  },
-  {
-    "title": "6 Best Medicine Cabinet Mirrors (2026)",
-    "slug": "best-medicine-cabinet-mirrors",
-    "summary": "Mirrored medicine cabinets that combine storage and style. From $49 to $299 — recessed and surface mount options for every bathroom.",
-    "image": "images/hero-best-bathroom-mirrors.jpg",
-    "imageWidth": 400,
-    "imageHeight": 192,
-    "publishDate": "2026-03-31",
-    "category": "Reviews",
-    "template": "roundup",
-    "featured": true,
-    "description": "Mirrored medicine cabinets that combine storage and style. From $49 to $299 — recessed and surface mount options for every bathroom."
-  },
-  {
-    "title": "Best Bathroom Mirrors of 2026: 7 Expert-Tested Picks for Every Style",
-    "slug": "best-bathroom-mirrors",
-    "summary": "We researched 30+ bathroom mirrors across every style — vanity, medicine cabinet, round, and frameless — to find the 7 that deliver the best clarity, build quality, and value from $29.99 to $189.99.",
-    "image": "images/hero-best-bathroom-mirrors.jpg",
-    "imageWidth": 400,
-    "imageHeight": 229,
-    "publishDate": "2026-03-28",
-    "category": "Reviews",
-    "template": "roundup",
-    "featured": true,
-    "description": "We researched 30+ bathroom mirrors across every style — vanity, medicine cabinet, round, and frameless — to find the 7 that deliver the best clarity, build quality, and value from $29.99 to $189.99."
-  },
-  {
-    "title": "Best LED Bathroom Mirrors with Lights: 6 Picks for Bright, Even Illumination (2026)",
-    "slug": "best-led-bathroom-mirrors-with-lights",
-    "summary": "We tested 12+ LED bathroom mirrors for brightness, color temperature, anti-fog, and build quality. Our 6 top picks from $79.99 to $249.99 — ranked by performance and value.",
-    "image": "images/hero-best-led-bathroom-mirrors-with-lights.jpg",
-    "imageWidth": 400,
-    "imageHeight": 229,
-    "publishDate": "2026-03-28",
-    "category": "Reviews",
-    "template": "roundup",
-    "featured": true,
-    "description": "We tested 12+ LED bathroom mirrors for brightness, color temperature, anti-fog, and build quality. Our 6 top picks from $79.99 to $249.99 — ranked by performance and value."
-  },
-  {
-    "title": "How to Choose the Right Bathroom Mirror Size: Complete Buyer's Guide (2026)",
-    "slug": "how-to-choose-the-right-bathroom-mirror-size",
-    "summary": "Step-by-step guide to choosing the perfect bathroom mirror size. Vanity proportions, height placement, shape selection, and style matching for every bathroom layout.",
-    "image": "images/hero-how-to-choose-the-right-bathroom-mirror-size.jpg",
-    "imageWidth": 400,
-    "imageHeight": 229,
-    "publishDate": "2026-03-28",
-    "category": "Guides",
-    "template": "guide",
-    "featured": false,
-    "description": "Step-by-step guide to choosing the perfect bathroom mirror size. Vanity proportions, height placement, shape selection, and style matching for every bathroom layout."
-  },
-  {
-    "title": "Best Round Bathroom Mirrors: 7 Stylish Picks (2026)",
-    "slug": "best-round-bathroom-mirrors",
-    "summary": "We compared 25+ round bathroom mirrors and found the 7 best for every style and budget. From minimalist frameless to bold gold frames — expert picks from $29.99 to $149.99.",
-    "image": "images/hero-best-round-bathroom-mirrors.webp",
-    "imageWidth": 400,
-    "imageHeight": 229,
-    "publishDate": "2026-03-29",
-    "category": "Reviews",
-    "template": "roundup",
-    "featured": true,
-    "description": "We compared 25+ round bathroom mirrors and found the 7 best for every style and budget. From minimalist frameless to bold gold frames — expert picks from $29.99 to $149.99."
   }
 ]
