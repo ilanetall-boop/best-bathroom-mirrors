@@ -96,7 +96,8 @@
     "category": "Guides",
     "template": "guide",
     "description": "A practical guide to buying a bathroom mirror: how to size it to your vanity, frame vs. frameless vs. LED, anti-fog and storage options, and the mistakes that cost you later.",
-    "date": "2026-06-04"
+    "date": "2026-06-04",
+    "lastModified": "2026-06-14"
   },
   {
     "slug": "best-frameless-bathroom-mirrors",
@@ -107,7 +108,8 @@
     "category": "Reviews",
     "template": "roundup",
     "description": "We tested 7 frameless bathroom mirrors across sizes and price tiers. The Brightify 24x36 is our top pick for most bathrooms, with budget, LED, and storage alternatives.",
-    "date": "2026-06-03"
+    "date": "2026-06-03",
+    "lastModified": "2026-06-14"
   },
   {
     "slug": "best-bathroom-mirrors-with-storage",
@@ -118,7 +120,8 @@
     "category": "Reviews",
     "template": "roundup",
     "description": "We tested seven bathroom mirrors with storage, from compact medicine cabinets to large LED-lit vanity mirrors, to find the best combinations of clarity, storage, and bathroom utility.",
-    "date": "2026-06-02"
+    "date": "2026-06-02",
+    "lastModified": "2026-06-14"
   },
   {
     "slug": "best-led-bathroom-mirrors",
@@ -129,7 +132,8 @@
     "category": "Reviews",
     "template": "roundup",
     "description": "After comparing seven LED bathroom mirrors on light quality, dimming, anti-fog, and build, the 36-by-30-inch backlit mirror is our pick for most bathrooms.",
-    "date": "2026-06-01"
+    "date": "2026-06-01",
+    "lastModified": "2026-06-14"
   },
   {
     "title": "The Best Anti-Fog Bathroom Mirrors (2026)",
@@ -141,6 +145,7 @@
     "template": "roundup",
     "featured": true,
     "description": "Anti-fog bathroom mirrors that stay clear after every shower. 7 tested picks from fogless shaving mirrors to heated LED bathroom mirrors.",
-    "date": "2026-05-19"
+    "date": "2026-05-19",
+    "lastModified": "2026-06-14"
   }
 ]
